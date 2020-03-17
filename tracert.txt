@@ -1,0 +1,6 @@
+traceroute to afamily.vn (123.30.151.74), 30 hops max, 60 byte packets
+ 1  * * Hapu-GW-Master.lan (192.168.17.1)  0.424 ms
+ 2  172.19.24.1 (172.19.24.1)  0.702 ms 172.19.26.1 (172.19.26.1)  1.012 ms 172.19.22.1 (172.19.22.1)  2.277 ms
+ 3  static.vnpt.vn (123.30.170.2)  1.503 ms  2.270 ms static.vnpt.vn (123.30.170.3)  1.475 ms
+ 4  * * *
+ 5  static.vnpt.vn (123.30.151.74)  1.217 ms * *
